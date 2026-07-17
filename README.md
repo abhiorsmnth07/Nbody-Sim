@@ -13,15 +13,15 @@ Figure 2 -
 <img width="522" height="317" alt="Screenshot 2026-07-17 at 18 01 28" src="https://github.com/user-attachments/assets/e5839a4c-370f-4b41-8d0c-8390ac75a69d" />
 
 ## Learnings 
-  *Using The Basic Loops and understanding them
-    Prior to this i did not know how to use While loops well and for loops were soemthing very foregin to me. This introduced them further and helped me understand them.
-  *Understanding the Vypython Library
-    Altough made with the help of a toutrial this helped me understand how to make 3d simulations with spheres, however it is still very basic and soemthing i still need to expand my knowledge on
-  *Understanding NBody simualtions
-    This helped me get a thorough understanding of what Nbody simulations are but i still have alot more to learn but i have a feasable understanding
-  4. Helped me Learn the add your own Twist
-    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable
-  5.Overall
+  1. Using The Basic Loops and understanding them\
+    Prior to this i did not know how to use While loops well and for loops were soemthing very foregin to me. This introduced them further and helped me understand them.\
+  2. Understanding the Vypython Library\
+    Altough made with the help of a toutrial this helped me understand how to make 3d simulations with spheres, however it is still very basic and soemthing i still need to expand my knowledge on.\
+  3. Understanding NBody simualtions\
+    This helped me get a thorough understanding of what Nbody simulations are but i still have alot more to learn but i have a feasable understanding\
+  4. Helped me Learn the add your own Twist\
+    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable\
+  5.Overall\
     This set the baseline for my coding journey ebing my first physcis code project and taught me alot on the basics of gravity and how a project should be. It also showed me how i learn when doing than reading.
 ## Improving on this
   This certainly isnt the most realsitc but if you ahev the time maybe maek it simualte our solar systems instead of making them random make it the exact for our solar system and see what happens 
