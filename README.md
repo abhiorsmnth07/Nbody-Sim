@@ -20,7 +20,7 @@ Figure 2 -
 3. Understanding NBody simualtions\
     This helped me get a thorough understanding of what Nbody simulations are but i still have alot more to learn but i have a feasable understanding
 4. Helped me Learn the add your own Twist\
-    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable
+    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable in the end. Such as How to radomise and how to make something your own.
 5.Overall\
     This set the baseline for my coding journey ebing my first physcis code project and taught me alot on the basics of gravity and how a project should be. It also showed me how i learn when doing than reading.
 ## Improving on this
