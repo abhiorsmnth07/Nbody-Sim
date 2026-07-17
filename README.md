@@ -14,13 +14,13 @@ Figure 2 -
 
 ## Learnings 
   1. Using The Basic Loops and understanding them\
-    Prior to this i did not know how to use While loops well and for loops were soemthing very foregin to me. This introduced them further and helped me understand them.\
+    Prior to this i did not know how to use While loops well and for loops were soemthing very foregin to me. This introduced them further and helped me understand them.
   2. Understanding the Vypython Library\
-    Altough made with the help of a toutrial this helped me understand how to make 3d simulations with spheres, however it is still very basic and soemthing i still need to expand my knowledge on.\
+    Altough made with the help of a toutrial this helped me understand how to make 3d simulations with spheres, however it is still very basic and soemthing i still need to expand my knowledge on.
   3. Understanding NBody simualtions\
-    This helped me get a thorough understanding of what Nbody simulations are but i still have alot more to learn but i have a feasable understanding\
+    This helped me get a thorough understanding of what Nbody simulations are but i still have alot more to learn but i have a feasable understanding
   4. Helped me Learn the add your own Twist\
-    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable\
+    The colors were something i added on my own showing for size and this carried onto my future projects later teaching me soemthing valuable
   5.Overall\
     This set the baseline for my coding journey ebing my first physcis code project and taught me alot on the basics of gravity and how a project should be. It also showed me how i learn when doing than reading.
 ## Improving on this
